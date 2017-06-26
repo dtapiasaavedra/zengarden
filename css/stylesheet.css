@@ -250,7 +250,7 @@ p {
 /* coloured cutoff */
 div.participation, div.benefits {
   background-attachment: scroll, scroll, fixed;
-  background-color: rgba(51,51,255,1);
+  background-color: rgb(1, 80, 249);
   background-image: url(contours-opaque.png), url(gridlines-opaque.png), url(bamboo.png);
   background-repeat: repeat, repeat, no-repeat;
   background-size: auto, auto, cover;
@@ -473,7 +473,7 @@ div.participation p, div.benefits p {
   padding: 1em 12%;
   margin: 0;
   color: rgba(255, 255, 255, 0.4);
-  background: #3e5d67;
+  background: #823af5;
 
   background-attachment: fixed, fixed, fixed, scroll;
   background-image: url(contours.png), url(gridlines.png), url(noise.png), url(koi.jpg);
@@ -497,7 +497,7 @@ footer {
   clear: both;
   padding: 3em 10%;
   color: #fff;
-  background: #134347;
+  background: #af4016;
   text-align: center;
 }
 footer a {
