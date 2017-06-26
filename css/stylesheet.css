@@ -250,7 +250,7 @@ p {
 /* coloured cutoff */
 div.participation, div.benefits {
   background-attachment: scroll, scroll, fixed;
-  background-color: rgba(138,188,159,0.5);
+  background-color: rgba(51,51,255,1);
   background-image: url(contours-opaque.png), url(gridlines-opaque.png), url(bamboo.png);
   background-repeat: repeat, repeat, no-repeat;
   background-size: auto, auto, cover;
@@ -261,8 +261,8 @@ div.participation {
   margin-top: 3em;
 }
 div.benefits {
-  padding-bottom: 3em;
-  margin-bottom: 3em;
+  padding-bottom: 10em;
+  margin-bottom: 10em;
 }
 div.participation h3, div.benefits h3 {
   margin-top: 0;
@@ -280,7 +280,7 @@ div.participation p, div.benefits p {
   display: none;
 }
 .sidebar a {
-  color: #607476;
+  color: #aa0101;
   text-decoration: none;
 }
   .sidebar a:hover, .sidebar a:focus {
