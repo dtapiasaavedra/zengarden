@@ -107,7 +107,7 @@ header {
   height: 230px;
   padding: 20px 0 70px 0;
 
-  background: #2d6360 50% 0 url(huntington.jpg) no-repeat; /* old IE fallback */
+  background: red 100% 0 url(huntington.jpg) no-repeat; /* old IE fallback */
 
   background-attachment: fixed, fixed, fixed, scroll;
   background-image: url(contours.png), url(noise.png), url(gridlines.png), url(huntington.jpg);
